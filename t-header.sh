@@ -123,7 +123,6 @@ sed -e "s/\Remo773/$PROC/g" .remo773.zsh-theme > $HOME/.oh-my-zsh/themes/xiong-c
 fi
 source ~/.zshrc
 else
-	echo -e "\033[32mHope you like my work..\033[0m"
 fi
 exit
 }
