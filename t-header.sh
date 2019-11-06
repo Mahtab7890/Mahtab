@@ -122,7 +122,7 @@ wget https://raw.githubusercontent.com/remo7777/T-Header/master/.remo773.zsh-the
 sed -e "s/\Remo773/$PROC/g" .remo773.zsh-theme > $HOME/.oh-my-zsh/themes/xiong-chiamiov-plus.zsh-theme
 fi
 source ~/.zshrc
-else
+
 fi
 exit
 }
